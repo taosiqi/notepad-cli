@@ -1,7 +1,7 @@
 {
   "name": "notepad-cli",
   "version": "1.2.3",
-  "description": "前端一键自动化部署脚手架服务",
+  "description": "node笔记本",
   "main": "lib/service.js",
   "homepage": "baidu.com",
   "author": {
