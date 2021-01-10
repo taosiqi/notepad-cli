@@ -1,9 +1,9 @@
 {
   "name": "notepad-cli",
-  "version": "1.2.3",
+  "version": "1.0.0",
   "description": "node笔记本",
   "main": "lib/service.js",
-  "homepage": "baidu.com",
+  "homepage": "https://github.com/taosiqi/notepad-cli",
   "author": {
     "name": "siqiJson"
   },
@@ -17,7 +17,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://"
+    "url": "https://github.com/taosiqi/notepad-cli"
   },
   "dependencies": {
     "chalk": "^4.1.0",
