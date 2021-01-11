@@ -5,10 +5,8 @@ const Service = require('../lib/service') //引入我们的入口文件
 const service = new Service() //实例化Service
 
 const rawArgv = process.argv.slice(2)
-console.log(rawArgv) //[ 'open' ]
 
 const args = require('minimist')(rawArgv) //解析命令行参数
-console.log(args) //{ _: [ 'open' ] }
 
 const command = args._[0]
 // 执行初始化

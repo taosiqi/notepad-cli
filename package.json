@@ -1,6 +1,6 @@
 {
   "name": "notepad-cli",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "node笔记本",
   "main": "lib/service.js",
   "homepage": "https://github.com/taosiqi/notepad-cli",

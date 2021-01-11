@@ -3,7 +3,7 @@
 ## 插件介绍
 
 > **chalk:** 修改终端颜色  
-> **commander:**添加版本命令提示  
+> **commander:** 添加版本命令提示  
 > **inquirer:**  命令行交互  
 > **minimis":** 命令行解析  
 > **ora:** 终端旋转器  
