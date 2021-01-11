@@ -20,3 +20,12 @@
 > **test:** 测试相关  
 > **chore:** 对构建过程或辅助工具和库（如文档生成）的更改  
 > **ci:** ci 相关的更改  
+
+## git合并规范
+
+> **develop:** 开发分支   
+> **staging:**  测试分支  
+> **master:**  正式分支  
+> **合并顺序:** develop合staging合master
+>
+
